@@ -1,0 +1,1 @@
+This project is a simple ATM Management System implemented in C++, designed for beginners to understand basic programming concepts like functions, conditionals, loops, and file handling. It simulates essential ATM operations such as account login, balance inquiry, deposit, withdrawal, and exit.
